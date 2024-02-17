@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GPS Tracker C39 - G Sat</string>
+    <string name="title_activity_first_compose">FirstComposeActivity</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
 </resources>
